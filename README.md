@@ -31,14 +31,14 @@
 <img width="25px" height="35px" src="https://camo.githubusercontent.com/f3debbadc567db68692006cb3ea6defa201ad3f8c4d2854861c4e46a2f06f95b/687474703a2f2f7777772e636f636f7332642d782e6f72672f6174746163686d656e74732f3830312f636f636f733264785f706f7274726169742e706e67">
 </div>
 <div style="padding-top:10px;padding-bottom:15px">
-<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="45px" height="20px" style="transform:scale(2.5,2.5)"> </h2>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="44px" height="20px" style="transform:scale(2.5,2.5)"> </h2>
 <a href = "https://www.linkedin.com/in/yurii-rovinskyi"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href="https://www.github.com/YuraRov"> <img width="32px" align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a> 
 </div>
 
 <h2> My GitHub Stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width="25px" height="25px"> </h2>
 
-![Metrics](https://metrics.lecoq.io/YuraRov?template=classic&config.timezone=America%2FToronto)
+![YuraRov's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuraRov&count_private=true&show_icons=true&theme=dark)
+![Metrics](https://metrics.lecoq.io/YuraRov?template=classic&config.timezone=Europe/Kiev)
 
-<br>
 <footer align="center">README made with help of <a href="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator">githubProfileReadmeGenerator</a> </footer>
