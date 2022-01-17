@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="100%" src="https://wallpapercave.com/uwp/uwp926387.gif" alt="cover" />
+<img width="100%" height="100%" src="https://github.com/YuraRov/YuraRov/blob/main/assets/header-banner.gif" alt="cover" />
 </div>
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px"> </h1>
