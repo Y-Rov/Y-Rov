@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="100%" src="assets/Digital_rain_banner.gif" alt="cover" />
+<img width="100%" height="100%" src="assets/cyberpunk-night-city.gif" alt="cover" />
 </div>
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px" height="29px"> </h1>
