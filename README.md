@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on my IT Career Pathway, Time Management, and Recreation 
 
-- 🌱 I’m currently learning Swift, Git, Design Patterns  
+- 🌱 I’m currently learning Android, Web, Swift, Git, Design Patterns  
 
 - 👯 I’m looking to collaborate on Different Open Source Projects 
 
